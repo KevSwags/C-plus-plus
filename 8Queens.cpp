@@ -2,6 +2,7 @@
 #include <cmath>
 using namespace std;
 
+
 // Returns true if the queen in column c is ok
 bool ok(int q[], int c) {
     for (int i = 0; i < c; ++i)
