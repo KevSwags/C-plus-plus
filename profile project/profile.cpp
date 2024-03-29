@@ -1,5 +1,4 @@
 #include <iostream>
-
 #include "profile.hpp"
 
 Profile::Profile(std::string new_name, int new_age, std::string new_city, std::string new_country, std::string new_pronouns)
