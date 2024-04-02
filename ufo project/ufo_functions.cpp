@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-// Define functions
+// Define function
 void greet() {
 
   std::cout << "=============\n";
